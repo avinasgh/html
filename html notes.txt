@@ -1,0 +1,32 @@
+html is hyper text mark up language.
+used for designing static web pages.
+pre tag based concept
+<br>,<pre>, <code>
+basic tags
+
+bold===><b>xyz</b>
+italic===><i>xyx</i>
+underline===><u>xyz</U>
+mark==><mark>xyz</mark>
+superscript==>x<sup>2</sup>+y<sup>2</sup>
+subscript===>X<sub>2</sub>+y<sub>2</sub>
+
+<small> small tag
+<big> tag
+<del> tag
+
+
+attributes
+<body bgcolor="red" background="image location" text="color">
+
+<dl>===>data language
+<dt></dt>(data term)
+<dd></dd>(data definition)
+</dl>
+
+font tag
+<font size="1">
+1 is least 7 is highest, 3 is default
+<font face>
+<font color>
+<font size>
